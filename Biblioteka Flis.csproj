@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Biblioteka_Flis</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\fibas\Desktop\Portfolio\BibliotekaManager.cs" Link="BibliotekaManager.cs" />
+  </ItemGroup>
+
+</Project>
